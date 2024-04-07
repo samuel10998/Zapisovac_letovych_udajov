@@ -1,0 +1,5 @@
+Ak ešte nemáme súbor vystup.gpx
+
+1)Vieme ho získať po spustení python skriptu.
+2)Ak už máme output.gpx vieme ho importovať do mymaps.google.com
+3)Po importovaní sa nám zobrazí trasa letu + ostatné info z letu.
